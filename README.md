@@ -1,2 +1,0 @@
-# flyingcat
-my personal website.
